@@ -3,7 +3,7 @@ Clustering Text with Transformed Document Vectors
 
 This is the source code to go along with the blog article  
 
-[Clustering Text with Transformed Document Vectors](http://xplordat.com/2018/11/05/want-clusters-how-many-will-you-have/)
+[Clustering Text with Transformed Document Vectors](http://xplordat.com/2018/11/26/clustering-text-with-transformed-document-vectors/)
 
 ## Dependencies
 
