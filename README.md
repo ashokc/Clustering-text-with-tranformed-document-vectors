@@ -1,5 +1,4 @@
-# Clustering-text-with-tranformed-document-vectors
-Clustering Text with Transformed Document Vectors
+# Clustering Text with Tranformed Document Vectors
 
 This is the source code to go along with the blog article  
 
